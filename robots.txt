@@ -1,0 +1,3 @@
+User-agent: *
+  Allow: /
+  Sitemap: https://cdz-test.github.io/test/sitemap.xml
